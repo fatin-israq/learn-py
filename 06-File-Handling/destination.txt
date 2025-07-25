@@ -1,0 +1,6 @@
+Hello World!
+It's written by Python.
+Append operation taking place.
+First line
+Second line
+Third line
